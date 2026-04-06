@@ -1,0 +1,8 @@
+Key,Value
+n_estimators,191
+max_depth,7
+learning_rate,0.05472548024061084
+subsample,0.8391864175472962
+colsample_bytree,0.8718474348747759
+gamma,0.0029241559806683966
+min_child_weight,3.3784336498749674

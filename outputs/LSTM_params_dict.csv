@@ -1,0 +1,7 @@
+Key,Value
+m,4
+encoder_n_layers,2
+encoder_hidden_size,256
+encoder_dropout,0.10625549979189902
+learning_rate,0.0004898753017748939
+batch_size,32
