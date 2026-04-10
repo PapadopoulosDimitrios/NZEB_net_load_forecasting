@@ -1,0 +1,8 @@
+Key,Value
+m,3
+hidden_size,64
+grid_size,4
+spline_order,3
+n_hidden_layers,1
+learning_rate,0.0025555105245808284
+batch_size,32

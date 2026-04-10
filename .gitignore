@@ -6,6 +6,7 @@
 .alcache/
 #Symbols folder
 .alpackages/
+codes/
 #Snapshots folder
 .snapshots/
 #Testing Output folder

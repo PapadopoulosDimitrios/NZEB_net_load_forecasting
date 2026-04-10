@@ -1,7 +1,0 @@
-Params
-'n_estimators': 258,
-'max_depth': 8,
-'learning_rate': 0.17550464989560502,
-'reg_alpha': 0.8163532576754263,
-'reg_lambda': 0.40388591126957757
-'trials': 100,

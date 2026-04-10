@@ -1,0 +1,6 @@
+Key,Value
+m,3
+hidden_size,32
+dropout,0.429294774173197
+learning_rate,0.009888317045939446
+batch_size,16

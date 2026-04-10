@@ -1,0 +1,6 @@
+Key,Value
+m,7
+hidden_size,512
+kernel_size,5
+learning_rate,0.004851261096029199
+batch_size,64
