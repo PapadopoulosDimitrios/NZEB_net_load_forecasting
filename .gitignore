@@ -6,7 +6,8 @@
 .alcache/
 #Symbols folder
 .alpackages/
-codes/
+codes/catboost_info
+codes/lightning_logs
 #Snapshots folder
 .snapshots/
 #Testing Output folder
